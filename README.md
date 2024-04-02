@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://visitor.badge.labi.icu/badge?page_id=Dre1896.Dre1896" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dre1896.Dre1896" />
 
 <h1 align = "center">
-    <img src = "https://readme-typgin-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Tolu+Olatunbosun!;" />
+    <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Tolu+Olatunbosun!;" />
 
 <h3 align = "center"> A passionate Data Scientist from New York City 🗽</h3>
