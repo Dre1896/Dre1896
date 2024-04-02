@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Dre1896/Dre1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://visitor.badge.labi.icu/badge?page_id=Dre1896.Dre1896" />
+
+<h1 align = "center">
+    <img src = "https://readme-typgin-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Tolu+Olatunbosun!;" />
+
+<h3 align = "center"> A passionate Data Scientist from New York City 🗽</h3>
