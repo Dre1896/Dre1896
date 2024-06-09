@@ -51,6 +51,7 @@ Here are some ideas to get you started:
     <img alt="Matplotlib" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Sklearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Pytorch" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;&nbsp;
+<img alt="aws" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
 </div>
 
 ---
