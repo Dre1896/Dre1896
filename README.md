@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<h1 align="center"> 🌟 Projects </h1>
+<h1 align="center"> 🗂️ Projects 🗂️ </h1>
 
 <!-- BEGIN PROJECT-CARDS -->
 <div align = "center">
