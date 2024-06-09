@@ -55,5 +55,5 @@ Here are some ideas to get you started:
     <img alt="Pytorch" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br/>
-<hr/>
+---
+# 🌟 Projects
