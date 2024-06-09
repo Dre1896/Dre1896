@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center" style="background-color: white;">
-    <img alt="Github" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="R" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Jupyter" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="MySql" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Numpy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Github" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
+     <img alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Jupyter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="MySql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Numpy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
     </br>
     <img alt="Matplotlib" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Sklearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;
@@ -59,24 +59,30 @@ Here are some ideas to get you started:
 
 <!-- BEGIN PROJECT-CARDS -->
 <div align = "center">
-<a href="https://github.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/main/banner.png" width=60%>
-</a>
-<a href="https://github.com/Dre1896/Cybersecurity-Salary-Analysis/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Cybersecurity-Salary-Analysis/main/banner.png" width=60%>
-</a>
-<a href="https://github.com/Dre1896/Boston-Social-Vulnerability-Analysis/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Boston-Social-Vulnerability-Analysis/main/banner.png" width=60%>
-</a>
-<a href="https://github.com/Dre1896/Data-Visualizations/blob/master/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Data-Visualizations/master/banner.png" width=60%>
-</a>
-<a href="https://github.com/Dre1896/Grad-Admissions/blob/master/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Grad-Admissions/master/banner.png" width=60%>
-</a>
-<a href="https://github.com/Dre1896/Versatility-Analysis/blob/master/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/Versatility-Analysis/master/banner.png" width=60%>
-</a>
+<div style="display: flex;">
+ <a href="https://github.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/blob/main/README.md">
+     <img src="https://raw.githubusercontent.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/main/banner.png" width=49%>
+ </a>
+ <a href="https://github.com/Dre1896/Boston-Social-Vulnerability-Analysis/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/Boston-Social-Vulnerability-Analysis/main/banner.png" width=49%>
+ </a>
+</div>
+<div style="display: flex;">
+ <a href="https://github.com/Dre1896/Cybersecurity-Salary-Analysis/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/Cybersecurity-Salary-Analysis/main/banner.png" width=49%>
+ </a>
+ <a href="https://github.com/Dre1896/Data-Visualizations/blob/master/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/Data-Visualizations/master/banner.png" width=49%>
+ </a>
+</div>
+<div style="display: flex;">
+ <a href="https://github.com/Dre1896/Grad-Admissions/blob/master/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/Grad-Admissions/master/banner.png" width=49%>
+ </a>
+ <a href="https://github.com/Dre1896/Versatility-Analysis/blob/master/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/Versatility-Analysis/master/banner.png" width=49%>
+ </a>
+</div>
 </div>
 
   
