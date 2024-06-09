@@ -80,5 +80,6 @@ Here are some ideas to get you started:
 
   
 <!-- END PROJECT-CARDS -->
-
+<div align = "center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dre1896.Dre1896" />
+</div>
