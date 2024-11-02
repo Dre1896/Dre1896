@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align = "center">
     
         🔭 I'm currently working on Recurrent and Convolutional Neural Networks
-        🌱 I'm currently learning Amazon Web Services (AWS)
+        🌱 I'm currently cooking up some projects that will be released soon! (11/2/2024)
         💬 Ask me about all things Data Science, Artificial Intelligence and Machine Learning
         ⚡ Fun Fact: I'm classically trained in ballroom dancing
         
