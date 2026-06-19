@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1 align = "center">
  <!--   <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Tolu+Olatunbosun!;" /> -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=55&duration=1000&pause=2500&color=03F700&center=true&vCenter=true&random=false&width=700&height=100&lines=Hi+There!%F0%9F%91%8B;I'm+Tolu+Olatunbosun!" alt="Typing SVG" />
-<h1 align = "center"> A Passionate Data Scientist from New York City 🗽</h1>
+<h1 align = "center"> A Passionate High Performance Computing Engineer from New York City 🗽</h1>
 
 <div align = "center">
     
         🔭 I'm currently working on Recurrent and Convolutional Neural Networks
-        🌱 I'm currently cooking up some projects that will be released soon! (11/2/2024)
+        🌱 I'm currently cooking up some projects that will be released soon! (6/19/2026)
         💬 Ask me about all things Data Science, Artificial Intelligence and Machine Learning
         ⚡ Fun Fact: I'm classically trained in ballroom dancing
         
