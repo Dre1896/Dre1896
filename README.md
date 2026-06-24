@@ -83,6 +83,12 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Dre1896/Versatility-Analysis/master/banner.png" width=49%>
   </a>
  </div>
+ <div style="display: flex;">
+  <a href="https://github.com/Dre1896/nlr-hpc-pue-analysis/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/nlr-hpc-pue-analysis/main/assets/banner.png" width=49%>
+  </a>
+ </div>
+ 
 </div>
 
   
