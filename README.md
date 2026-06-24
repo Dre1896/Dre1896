@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
     
-        🔭 I'm currently working on Recurrent and Convolutional Neural Networks
+        🔭 I'm currently working on Full Stack AI Infra Projects + Performance Engineering (CUDA Optimization)
         🌱 I'm currently cooking up some projects that will be released soon! (6/19/2026)
         💬 Ask me about all things Data Science, Artificial Intelligence and Machine Learning
         ⚡ Fun Fact: I'm classically trained in ballroom dancing
