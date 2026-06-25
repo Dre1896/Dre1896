@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     <img alt="Prometheus" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Streamlit" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Splunk" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Cuda" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373541/cuda.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Cuda" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg?_=20180715211833">&nbsp;&nbsp;&nbsp;
     <img alt="Nsight" width="50px" style="padding-right:10px;" src="https://developer.download.nvidia.com/images/nvidia-nsight-systems-icon-gbp-shaded-256.png">&nbsp;&nbsp;&nbsp;
 </div>
 
