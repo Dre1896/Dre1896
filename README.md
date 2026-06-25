@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <div align="center" style="background-color: white;">
     <img alt="Github" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
-     <img alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Jupyter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
-    <img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="MySql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Numpy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
@@ -51,7 +51,14 @@ Here are some ideas to get you started:
     <img alt="Matplotlib" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Sklearn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;
     <img alt="Pytorch" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;&nbsp;
-<img alt="aws" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="aws" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    </br>
+    <img alt="Pytorch" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Prometheus" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Streamlit" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Splunk" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Cuda" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373541/cuda.svg">&nbsp;&nbsp;&nbsp;
+    <img alt="Nsight" width="50px" style="padding-right:10px;" src="https://developer.download.nvidia.com/images/nvidia-nsight-systems-icon-gbp-shaded-256.png">&nbsp;&nbsp;&nbsp;
 </div>
 
 ---
@@ -59,6 +66,11 @@ Here are some ideas to get you started:
 
 <!-- BEGIN PROJECT-CARDS -->
 <div align = "center">
+ <div style="display: flex;">
+  <a href="https://github.com/Dre1896/nlr-hpc-pue-analysis/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/nlr-hpc-pue-analysis/main/assets/banner.png" width=49%>
+  </a>
+ </div>
  <div style="display: flex;">
   <a href="https://github.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/blob/main/README.md">
      <img src="https://raw.githubusercontent.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/main/banner.png" width=49%> 
@@ -82,13 +94,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Dre1896/Versatility-Analysis/blob/master/README.md">
     <img src="https://raw.githubusercontent.com/Dre1896/Versatility-Analysis/master/banner.png" width=49%>
   </a>
- </div>
- <div style="display: flex;">
-  <a href="https://github.com/Dre1896/nlr-hpc-pue-analysis/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/nlr-hpc-pue-analysis/main/assets/banner.png" width=49%>
-  </a>
- </div>
- 
+ </div> 
 </div>
 
   
