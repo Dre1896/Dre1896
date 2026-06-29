@@ -70,6 +70,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Dre1896/nlr-hpc-pue-analysis/blob/main/README.md">
     <img src="https://raw.githubusercontent.com/Dre1896/nlr-hpc-pue-analysis/main/assets/banner.png" width=49%>
   </a>
+  <a href="https://github.com/Dre1896/ShakespeareLLM/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/Dre1896/ShakespeareLLM/main/assets/banner.png" width=49%>
+  </a>
  </div>
  <div style="display: flex;">
   <a href="https://github.com/Dre1896/Gross-Domestic-Product-Recurrent-Neural-Networks/blob/main/README.md">
