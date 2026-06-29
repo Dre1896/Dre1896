@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Dre1896/nlr-hpc-pue-analysis/main/assets/banner.png" width=49%>
   </a>
   <a href="https://github.com/Dre1896/ShakespeareLLM/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/Dre1896/ShakespeareLLM/main/assets/banner.png" width=49%>
+    <img src="https://raw.githubusercontent.com/Dre1896/ShakespeareLLM/main/assets/banner.png" width=50%>
   </a>
  </div>
  <div style="display: flex;">
